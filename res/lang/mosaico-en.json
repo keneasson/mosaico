@@ -59,7 +59,7 @@
   "Recents": "Recents",
   "Remote gallery": "Remote gallery",
   "Customized block.<ul><li>In this status changes to properties will be specific to the current block (instead of being global to all blocks in the same section)</li><li>A <span class=\"customStyled\"><span>\"small cube\" </span></span> icon beside the property will mark the customization. By clicking this icon the property value will be reverted to the value defined for the section.</li></ul>": "Customized block.<ul><li>In this status changes to properties will be specific to the current block (instead of being global to all blocks in the same section)</li><li>A <span class=\"customStyled\"><span>\"small cube\" </span></span> icon beside the property will mark the customization. By clicking this icon the property value will be reverted to the value defined for the section.</li></ul>",
-  "Drop here blocks from the \"Blocks\" tab": "Drop here blocks from the \"Blocks\" tab",
+  "Drop here blocks from the \"Blocks\" tab": "Drop blocks here from the \"Blocks\" tab",
   "Drag this handle to move the block": "Drag this handle to move the block",
   "Move this block upside": "Move this block upside",
   "Move this block downside": "Move this block downside",
